@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/aoc.iml" filepath="$PROJECT_DIR$/aoc.iml" />
+      <module fileurl="file://$PROJECT_DIR$/day1/aoc.day1.iml" filepath="$PROJECT_DIR$/day1/aoc.day1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/utils/aoc.utils.iml" filepath="$PROJECT_DIR$/utils/aoc.utils.iml" />
+    </modules>
+  </component>
+</project>
