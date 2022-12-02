@@ -1,3 +1,1 @@
-fun readResourceAsText(path: String): String {
-    return object {}.javaClass.getResource(path)?.readText() ?: ""
-}
+fun readResourceAsText(path: String): String = object {}.javaClass.getResource(path)?.readText() ?: ""
