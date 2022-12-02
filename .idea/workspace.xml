@@ -4,7 +4,19 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e1886bdf-c394-4d56-9155-1e7ebfe858f9" name="Changes" comment="Convert util to expression body" />
+    <list default="true" id="e1886bdf-c394-4d56-9155-1e7ebfe858f9" name="Changes" comment="Convert util to expression body">
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/KotlinJavaRuntime.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/KotlinJavaRuntime.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/runConfigurations/Day_1__Task_1_.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/runConfigurations/Day_1__Task_1_.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/runConfigurations/Day_1__Task_2_.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/runConfigurations/Day_1__Task_2_.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/runConfigurations/Day_2__Task_1_.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/runConfigurations/Day_2__Task_1_.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/runConfigurations/Day_2__Task_2_.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/runConfigurations/Day_2__Task_2_.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/aoc.iml" beforeDir="false" afterPath="$PROJECT_DIR$/aoc-2022.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/day1/aoc.day1.iml" beforeDir="false" afterPath="$PROJECT_DIR$/day1/aoc-2022.day1.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/day2/aoc.day2.iml" beforeDir="false" afterPath="$PROJECT_DIR$/day2/aoc-2022.day2.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/utils/aoc.utils.iml" beforeDir="false" afterPath="$PROJECT_DIR$/utils/aoc-2022.utils.iml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -19,9 +31,6 @@
   </component>
   <component name="Git.Settings">
     <option name="RESET_MODE" value="HARD" />
-  </component>
-  <component name="HighlightingSettingsPerFile">
-    <setting file="jar://$USER_HOME$/Library/Java/JavaVirtualMachines/openjdk-19.0.1/Contents/Home/lib/src.zip!/java.base/java/util/PriorityQueue.java" root0="SKIP_INSPECTION" />
   </component>
   <component name="MacroExpansionManager">
     <option name="directoryName" value="bozlxlx4" />
@@ -38,6 +47,7 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "RunOnceActivity.GIT_CREDENTIAL_SETUP": "true",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.go.formatter.settings.were.checked": "true",
@@ -63,19 +73,25 @@
     </key>
   </component>
   <component name="RunManager" selected="Kotlin.Day 2 [Task 2]">
+    <configuration default="true" type="JetRunConfigurationType">
+      <module name="aoc-2022.utils" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
+      <module name="aoc-2022.utils" />
+      <option name="filePath" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <list>
       <item itemvalue="Kotlin.Day 1 [Task 1]" />
       <item itemvalue="Kotlin.Day 1 [Task 2]" />
       <item itemvalue="Kotlin.Day 2 [Task 1]" />
       <item itemvalue="Kotlin.Day 2 [Task 2]" />
     </list>
-    <recent_temporary>
-      <list>
-        <item itemvalue="Kotlin.Day 1 [Task 2]" />
-        <item itemvalue="Kotlin.Day 2 [Task 2]" />
-        <item itemvalue="Kotlin.Day 2 [Task 1]" />
-      </list>
-    </recent_temporary>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -90,6 +106,7 @@
       <workItem from="1669929845096" duration="9867000" />
       <workItem from="1669999781375" duration="63000" />
       <workItem from="1669999861449" duration="2295000" />
+      <workItem from="1670004722030" duration="457000" />
     </task>
     <task id="LOCAL-00001" summary="Day 1">
       <created>1669931139015</created>
@@ -129,5 +146,9 @@
   </component>
   <component name="VgoProject">
     <settings-migrated>true</settings-migrated>
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
   </component>
 </project>

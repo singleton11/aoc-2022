@@ -1,7 +1,7 @@
 <component name="ProjectRunConfigurationManager">
   <configuration default="false" name="Day 1 [Task 1]" type="JetRunConfigurationType">
     <option name="MAIN_CLASS_NAME" value="Task1Kt" />
-    <module name="aoc.day1" />
+    <module name="aoc-2022.day1" />
     <shortenClasspath name="NONE" />
     <method v="2">
       <option name="Make" enabled="true" />

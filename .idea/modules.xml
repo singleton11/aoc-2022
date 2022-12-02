@@ -2,10 +2,10 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/aoc.iml" filepath="$PROJECT_DIR$/aoc.iml" />
-      <module fileurl="file://$PROJECT_DIR$/day1/aoc.day1.iml" filepath="$PROJECT_DIR$/day1/aoc.day1.iml" />
-      <module fileurl="file://$PROJECT_DIR$/day2/aoc.day2.iml" filepath="$PROJECT_DIR$/day2/aoc.day2.iml" />
-      <module fileurl="file://$PROJECT_DIR$/utils/aoc.utils.iml" filepath="$PROJECT_DIR$/utils/aoc.utils.iml" />
+      <module fileurl="file://$PROJECT_DIR$/aoc-2022.iml" filepath="$PROJECT_DIR$/aoc-2022.iml" />
+      <module fileurl="file://$PROJECT_DIR$/day1/aoc-2022.day1.iml" filepath="$PROJECT_DIR$/day1/aoc-2022.day1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/day2/aoc-2022.day2.iml" filepath="$PROJECT_DIR$/day2/aoc-2022.day2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/utils/aoc-2022.utils.iml" filepath="$PROJECT_DIR$/utils/aoc-2022.utils.iml" />
     </modules>
   </component>
 </project>
