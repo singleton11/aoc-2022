@@ -1,5 +1,5 @@
 <component name="ProjectRunConfigurationManager">
-  <configuration default="false" name="Day 1 [Task 2]" type="JetRunConfigurationType">
+  <configuration default="false" name="Day 1 [Task 2]" type="JetRunConfigurationType" folderName="Day 1">
     <option name="MAIN_CLASS_NAME" value="Task2Kt" />
     <module name="aoc-2022.day1" />
     <shortenClasspath name="NONE" />
