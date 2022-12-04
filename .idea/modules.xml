@@ -6,6 +6,7 @@
       <module fileurl="file://$PROJECT_DIR$/day1/aoc-2022.day1.iml" filepath="$PROJECT_DIR$/day1/aoc-2022.day1.iml" />
       <module fileurl="file://$PROJECT_DIR$/day2/aoc-2022.day2.iml" filepath="$PROJECT_DIR$/day2/aoc-2022.day2.iml" />
       <module fileurl="file://$PROJECT_DIR$/day3/aoc-2022.day3.iml" filepath="$PROJECT_DIR$/day3/aoc-2022.day3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/day4/aoc-2022.day4.iml" filepath="$PROJECT_DIR$/day4/aoc-2022.day4.iml" />
       <module fileurl="file://$PROJECT_DIR$/utils/aoc-2022.utils.iml" filepath="$PROJECT_DIR$/utils/aoc-2022.utils.iml" />
     </modules>
   </component>
