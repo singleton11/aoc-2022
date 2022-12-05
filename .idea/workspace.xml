@@ -4,12 +4,13 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e1886bdf-c394-4d56-9155-1e7ebfe858f9" name="Changes" comment="Day 3">
-      <change afterPath="$PROJECT_DIR$/.idea/runConfigurations/Day_4__Task_1_.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day4/Task1.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day4/Task2.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day4/aoc-2022.day4.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day4/resources/input1.txt" afterDir="false" />
+    <list default="true" id="e1886bdf-c394-4d56-9155-1e7ebfe858f9" name="Changes" comment="Day 4">
+      <change afterPath="$PROJECT_DIR$/.idea/runConfigurations/Day_5__Task_1_.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/runConfigurations/Day_5__Task_2_.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day5/Task1.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day5/Task2.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day5/aoc-2022.day5.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day5/resources/input.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/libraries/KotlinJavaRuntime.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/KotlinJavaRuntime.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
@@ -27,6 +28,7 @@
     </option>
   </component>
   <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
     <option name="RESET_MODE" value="HARD" />
   </component>
   <component name="MacroExpansionManager">
@@ -53,7 +55,8 @@
     "WebServerToolWindowFactoryState": "false",
     "go.import.settings.migrated": "true",
     "jdk.selected.JAVA_MODULE": "openjdk-19",
-    "last_opened_file_path": "/Users/Anton.Prokhorov/projects/aoc-2022/day4",
+    "last.edited.regexp": "move 1 from 12 to 15",
+    "last_opened_file_path": "/Users/Anton.Prokhorov/projects/aoc-2022/day5",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -67,12 +70,14 @@
   },
   "keyToStringList": {
     "com.intellij.ide.scratch.ScratchImplUtil$2/New Scratch File": [
+      "kotlin",
       "TEXT"
     ]
   }
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/day5" />
       <recent name="$PROJECT_DIR$/day4" />
       <recent name="$PROJECT_DIR$/day3" />
     </key>
@@ -80,7 +85,7 @@
       <recent name="$PROJECT_DIR$/day2" />
     </key>
   </component>
-  <component name="RunManager" selected="Kotlin.Day 4 [Task 2]">
+  <component name="RunManager" selected="Kotlin.Day 5 [Task 1]">
     <configuration default="true" type="JetRunConfigurationType">
       <module name="aoc-2022.utils" />
       <method v="2">
@@ -103,13 +108,9 @@
       <item itemvalue="Kotlin.Day 3 [Task 2]" />
       <item itemvalue="Kotlin.Day 4 [Task 1]" />
       <item itemvalue="Kotlin.Day 4 [Task 2]" />
+      <item itemvalue="Kotlin.Day 5 [Task 1]" />
+      <item itemvalue="Kotlin.Day 5 [Task 2]" />
     </list>
-    <recent_temporary>
-      <list>
-        <item itemvalue="Kotlin.Day 4 [Task 2]" />
-        <item itemvalue="Kotlin.Day 4 [Task 1]" />
-      </list>
-    </recent_temporary>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -126,7 +127,11 @@
       <workItem from="1669999861449" duration="2295000" />
       <workItem from="1670004722030" duration="457000" />
       <workItem from="1670109063799" duration="1452000" />
-      <workItem from="1670189415585" duration="1585000" />
+      <workItem from="1670189415585" duration="3137000" />
+      <workItem from="1670239169116" duration="8000" />
+      <workItem from="1670245230811" duration="571000" />
+      <workItem from="1670256455642" duration="686000" />
+      <workItem from="1670262754766" duration="3412000" />
     </task>
     <task id="LOCAL-00001" summary="Day 1">
       <created>1669931139015</created>
@@ -149,7 +154,14 @@
       <option name="project" value="LOCAL" />
       <updated>1670109955099</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Day 4">
+      <created>1670191013645</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1670191013645</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -170,7 +182,8 @@
     <MESSAGE value="Day 1" />
     <MESSAGE value="Convert util to expression body" />
     <MESSAGE value="Day 3" />
-    <option name="LAST_COMMIT_MESSAGE" value="Day 3" />
+    <MESSAGE value="Day 4" />
+    <option name="LAST_COMMIT_MESSAGE" value="Day 4" />
   </component>
   <component name="VgoProject">
     <settings-migrated>true</settings-migrated>
